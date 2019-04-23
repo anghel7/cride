@@ -1,0 +1,1 @@
+web: gunicorn cride.wsgi --log-file -
